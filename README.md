@@ -21,6 +21,6 @@ An optional argument can be passed to the program, the interval in seconds, e.g.
 
 Some kind of personalization is possible by changing some values at the beginning of the script.
 
-MD5SUM: f4b9f200b07768b52710892e8922e26f  system_monitor.py
+MD5SUM: 95ca1e4e89be326f95a2ff7481c4b75f  system_monitor.py
 
 ![My image](https://github.com/frank038/System-Monitor/blob/master/sm1.png)
